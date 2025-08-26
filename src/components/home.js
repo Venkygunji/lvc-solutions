@@ -183,7 +183,9 @@ const Home = () => {
           <div>
           <h2>Transformation starts here
          </h2><br></br>
-          <p>Imagine your future</p>
+          <p>At LVC Solutions, transformation starts where vision meets action. We are not just a software company—we are your dedicated partner in reimagining what's possible. <br /> 
+              Rooted in innovation and driven by real-world results, we empower businesses to cross the digital frontier with confidence and agility.<br />
+               Let's build tomorrow—starting today.</p>
           <button className="Connect-button">Connect With Us</button>
           </div>
           <div className="divider"></div>
